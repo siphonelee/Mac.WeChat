@@ -17,4 +17,4 @@ https://github.com/changtuiqie/WeChatAgreement.WebApi.Simple
 这个项目使用websocket+api即可调用，跨平台 跨语言。
 
 对该项目有兴趣的可以加入我的知识星球来一起交流。<br/>
-![](http://file.wechattools.com/zsxq.jpg) <br/>
+![](https://github.com/changtuiqie/WeChatAgreement/blob/master/zsxq.jpg) <br/>
